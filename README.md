@@ -1,7 +1,4 @@
 # WebDevTutorials
 Web Development Tutorials
-Sample text
 
-Here's some more text
-
-Ok, here is even more text.
+Tutorials that I have coded along with. Stored here for reference. 
