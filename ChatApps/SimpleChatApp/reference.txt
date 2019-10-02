@@ -1,0 +1,13 @@
+Originally from https://www.youtube.com/watch?v=rxzOqP9YwmM
+Web Dev Simplified
+
+npm init
+npm i socket.io
+npm i --save-dev nodemon
+
+erase default script in package.json and put the following:
+"devStart": "nodemon server.js"
+
+get server started with: nodemon server.js
+
+
