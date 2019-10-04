@@ -1,0 +1,15 @@
+Originally from https://www.youtube.com/watch?v=5yTazHkDR4o
+
+npm init
+npm i express body-parser mongoose concurrently 
+npm i -D nodemon
+
+
+
+
+handle data taht comes in. read the body for post requests
+mongoose to interact with library
+concurrently to run more than one npm script at a time
+
+
+
